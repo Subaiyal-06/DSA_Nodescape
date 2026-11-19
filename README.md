@@ -10,9 +10,9 @@ A menu-driven console program in C++ that implements the main data structures of
 | S.No | Name | Roll No | Modules |
 |------|------|---------|---------|
 | 1 | Syed Abdullah Hussain (Group Lead) | CT-25283 | Main menu, AVL Tree, Time Complexity |
-| 2 | Mohammad Subaiyal | CT-25270 | Singly, Doubly and Circular Linked List |
-| 3 | Mohammad Ali Ahad | CT-25269 | Stack, Queue, Array ADT |
-| 4 | Mohammad Arif | CT-25273 | Binary Tree, Binary Search Tree |
+| 2 | Muhammad Subaiyal | CT-25270 | Singly, Doubly and Circular Linked List |
+| 3 | Muhammad Ali Ahad | CT-25269 | Stack, Queue, Array ADT |
+| 4 | Muhammad Arib | CT-25273 | Binary Tree, Binary Search Tree |
 
 **Repository link:** <paste the GitHub repository link here>
 
