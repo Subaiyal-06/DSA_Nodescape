@@ -1,4 +1,4 @@
-# Stack, Queue and Array ADT - Muhammad Ali Ahad (CT-25269)
+# Stack, Queue and Array ADT - Mohammad Ali Ahad (CT-25269)
 
 Classes: ArrayStack, LinkedStack, isBalanced, CircularQueue, LinkedQueue, ArrayADT.
 
