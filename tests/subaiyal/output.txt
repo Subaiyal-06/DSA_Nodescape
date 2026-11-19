@@ -1,0 +1,305 @@
+
+DSA NoteScapes
+ 1. Singly Linked List
+ 2. Doubly Linked List
+ 3. Circular Linked List
+ 4. Stack
+ 5. Queue
+ 6. Array ADT
+ 7. Binary Tree
+ 8. Binary Search Tree
+ 9. AVL Tree
+10. Time Complexity
+ 0. Exit
+Choice: 
+Singly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Reverse
+9. Display
+0. Back
+Choice: Value: HEAD -> 10 -> NULL   (size = 1)
+
+Singly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Reverse
+9. Display
+0. Back
+Choice: Value: HEAD -> 10 -> 20 -> NULL   (size = 2)
+
+Singly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Reverse
+9. Display
+0. Back
+Choice: Value: HEAD -> 5 -> 10 -> 20 -> NULL   (size = 3)
+
+Singly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Reverse
+9. Display
+0. Back
+Choice: Position: Value: HEAD -> 5 -> 15 -> 10 -> 20 -> NULL   (size = 4)
+
+Singly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Reverse
+9. Display
+0. Back
+Choice: HEAD -> 20 -> 10 -> 15 -> 5 -> NULL   (size = 4)
+
+Singly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Reverse
+9. Display
+0. Back
+Choice: Value: 99 not found.
+
+Singly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Reverse
+9. Display
+0. Back
+Choice: Deleted 20
+HEAD -> 10 -> 15 -> 5 -> NULL   (size = 3)
+
+Singly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Reverse
+9. Display
+0. Back
+Choice: 
+DSA NoteScapes
+ 1. Singly Linked List
+ 2. Doubly Linked List
+ 3. Circular Linked List
+ 4. Stack
+ 5. Queue
+ 6. Array ADT
+ 7. Binary Tree
+ 8. Binary Search Tree
+ 9. AVL Tree
+10. Time Complexity
+ 0. Exit
+Choice: 
+Doubly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Display forward
+9. Display backward
+0. Back
+Choice: Value: NULL <-> 1 <-> NULL   (size = 1)
+
+Doubly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Display forward
+9. Display backward
+0. Back
+Choice: Value: NULL <-> 1 <-> 2 <-> NULL   (size = 2)
+
+Doubly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Display forward
+9. Display backward
+0. Back
+Choice: Value: NULL <-> 3 <-> 1 <-> 2 <-> NULL   (size = 3)
+
+Doubly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Display forward
+9. Display backward
+0. Back
+Choice: Backward: 2 1 3 
+
+Doubly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Display forward
+9. Display backward
+0. Back
+Choice: Value: Deleted 2
+NULL <-> 3 <-> 1 <-> NULL   (size = 2)
+
+Doubly Linked List
+1. Insert at front
+2. Insert at end
+3. Insert at position
+4. Delete front
+5. Delete end
+6. Delete by value
+7. Search
+8. Display forward
+9. Display backward
+0. Back
+Choice: 
+DSA NoteScapes
+ 1. Singly Linked List
+ 2. Doubly Linked List
+ 3. Circular Linked List
+ 4. Stack
+ 5. Queue
+ 6. Array ADT
+ 7. Binary Tree
+ 8. Binary Search Tree
+ 9. AVL Tree
+10. Time Complexity
+ 0. Exit
+Choice: 
+Circular Linked List
+1. Insert at front
+2. Insert at end
+3. Delete front
+4. Delete by value
+5. Search
+6. Display
+0. Back
+Choice: Value: HEAD -> 1 -> (back to HEAD)   size = 1
+
+Circular Linked List
+1. Insert at front
+2. Insert at end
+3. Delete front
+4. Delete by value
+5. Search
+6. Display
+0. Back
+Choice: Value: HEAD -> 1 -> 2 -> (back to HEAD)   size = 2
+
+Circular Linked List
+1. Insert at front
+2. Insert at end
+3. Delete front
+4. Delete by value
+5. Search
+6. Display
+0. Back
+Choice: Value: HEAD -> 1 -> 2 -> 3 -> (back to HEAD)   size = 3
+
+Circular Linked List
+1. Insert at front
+2. Insert at end
+3. Delete front
+4. Delete by value
+5. Search
+6. Display
+0. Back
+Choice: Value: HEAD -> 0 -> 1 -> 2 -> 3 -> (back to HEAD)   size = 4
+
+Circular Linked List
+1. Insert at front
+2. Insert at end
+3. Delete front
+4. Delete by value
+5. Search
+6. Display
+0. Back
+Choice: Value: Deleted 2
+HEAD -> 0 -> 1 -> 3 -> (back to HEAD)   size = 3
+
+Circular Linked List
+1. Insert at front
+2. Insert at end
+3. Delete front
+4. Delete by value
+5. Search
+6. Display
+0. Back
+Choice: Value: 3 found at position 3
+
+Circular Linked List
+1. Insert at front
+2. Insert at end
+3. Delete front
+4. Delete by value
+5. Search
+6. Display
+0. Back
+Choice: 
+DSA NoteScapes
+ 1. Singly Linked List
+ 2. Doubly Linked List
+ 3. Circular Linked List
+ 4. Stack
+ 5. Queue
+ 6. Array ADT
+ 7. Binary Tree
+ 8. Binary Search Tree
+ 9. AVL Tree
+10. Time Complexity
+ 0. Exit
+Choice: Program ended.
