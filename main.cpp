@@ -1,12 +1,12 @@
 /*
-    DSA NoteScapes - CT-159 Data Structures and Algorithms
+    DSA NodeScape - CT-159 Data Structures and Algorithms
     NED University of Engineering & Technology, Karachi
 
     Group members:
     Syed Abdullah Hussain (CT-25283), Group Lead: main menu, AVL Tree, Time Complexity
-    Mohammad Subaiyal (CT-25270): Singly, Doubly and Circular Linked List
-    Mohammad Ali Ahad (CT-25269): Stack, Queue, Array ADT
-    Mohammad Arif (CT-25273): Binary Tree, Binary Search Tree
+    Muhammad Subaiyal (CT-25270): Singly, Doubly and Circular Linked List
+    Muhammad Ali Ahad (CT-25269): Stack, Queue, Array ADT
+    Muhammad Arib (CT-25273): Binary Tree, Binary Search Tree
 
     Sirf ek file hai aur sirf iostream use hua hai, koi STL nahi.
     Struct ki jagah classes aur constructors use kiye hain.
@@ -52,7 +52,7 @@ void readLine(char* buf, int maxLen)
 }
 
 
-// Member: Mohammad Subaiyal
+// Member: Muhammad Subaiyal
 // 1. SINGLY LINKED LIST
 
 // ek node: data aur agle node ka address
@@ -239,7 +239,7 @@ void singlyListMenu()
 }
 
 
-// Member: Mohammad Subaiyal
+// Member: Muhammad Subaiyal
 // 2. DOUBLY LINKED LIST
 
 // is node mein prev aur next dono hain
@@ -405,7 +405,7 @@ void doublyListMenu()
 }
 
 
-// Member: Mohammad Subaiyal
+// Member: Muhammad Subaiyal
 // 3. CIRCULAR LINKED LIST
 // Aakhri node ka next head ko point karta hai. Sirf tail rakhte hain,
 // head hamesha tail->next hota hai.
@@ -539,7 +539,7 @@ void circularListMenu()
 }
 
 
-// Member: Mohammad Ali Ahad
+// Member: Muhammad Ali Ahad
 // 4. STACK (LIFO)
 
 // array wala stack, size constructor mein milti hai
@@ -716,7 +716,7 @@ void stackMenu()
 }
 
 
-// Member: Mohammad Ali Ahad
+// Member: Muhammad Ali Ahad
 // 5. QUEUE (FIFO)
 
 // circular array queue: index % capacity se wapas shuru par aa jata hai
@@ -873,7 +873,7 @@ void queueMenu()
 }
 
 
-// Member: Mohammad Ali Ahad
+// Member: Muhammad Ali Ahad
 // 6. ARRAY ADT
 
 class ArrayADT
@@ -1173,7 +1173,7 @@ public:
 };
 
 
-// Member: Mohammad Arif
+// Member: Muhammad Arib
 // 7. BINARY TREE  (level order insert, koi value ka rule nahi)
 
 class BinaryTree : public Tree
@@ -1237,7 +1237,7 @@ void binaryTreeMenu()
 }
 
 
-// Member: Mohammad Arif
+// Member: Muhammad Arib
 // 8. BINARY SEARCH TREE
 // Rule: left < node < right
 
@@ -1626,7 +1626,7 @@ int main()
     int ch;
     do
     {
-        cout << "\nDSA NoteScapes\n"
+        cout << "\nDSA NodeScape\n"
              << " 1. Singly Linked List\n"
              << " 2. Doubly Linked List\n"
              << " 3. Circular Linked List\n"

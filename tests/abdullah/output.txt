@@ -1,5 +1,5 @@
 
-DSA NoteScapes
+DSA NodeScape
  1. Singly Linked List
  2. Doubly Linked List
  3. Circular Linked List
@@ -138,7 +138,7 @@ AVL Tree
 6. Height / nodes / leaves
 0. Back
 Choice: 
-DSA NoteScapes
+DSA NodeScape
  1. Singly Linked List
  2. Doubly Linked List
  3. Circular Linked List
@@ -180,7 +180,7 @@ Time Complexity
 2. Live demo
 0. Back
 Choice: 
-DSA NoteScapes
+DSA NodeScape
  1. Singly Linked List
  2. Doubly Linked List
  3. Circular Linked List

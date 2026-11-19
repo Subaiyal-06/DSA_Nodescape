@@ -1,4 +1,4 @@
-# DSA NoteScapes
+# DSA NodeScape
 
 **CT-159 Data Structures and Algorithms** | BSCS (F), Fall 2026
 NED University of Engineering & Technology, Karachi
@@ -41,8 +41,8 @@ A menu-driven console program in C++ that implements the main data structures of
 Requires g++ (MinGW / MSYS2 on Windows) with C++17.
 
 ```
-g++ -std=c++17 main.cpp -o DSA_NoteScapes.exe
-.\DSA_NoteScapes.exe
+g++ -std=c++17 main.cpp -o DSA_NodeScape.exe
+.\DSA_NodeScape.exe
 ```
 
 Type a number from 1 to 10 to open a module. Type 0 to go back or to exit.
@@ -50,7 +50,7 @@ Type a number from 1 to 10 to open a module. Type 0 to go back or to exit.
 ## Sample output
 
 ```
-DSA NoteScapes
+DSA NodeScape
  1. Singly Linked List
  2. Doubly Linked List
  ...

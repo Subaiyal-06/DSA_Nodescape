@@ -1,4 +1,4 @@
-# Linked Lists - Mohammad Subaiyal (CT-25270)
+# Linked Lists - Muhammad Subaiyal (CT-25270)
 
 Classes: Node, SinglyLinkedList, DNode, DoublyLinkedList, CircularLinkedList.
 

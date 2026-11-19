@@ -1,5 +1,5 @@
 
-DSA NoteScapes
+DSA NodeScape
  1. Singly Linked List
  2. Doubly Linked List
  3. Circular Linked List
@@ -116,7 +116,7 @@ Singly Linked List
 9. Display
 0. Back
 Choice: 
-DSA NoteScapes
+DSA NodeScape
  1. Singly Linked List
  2. Doubly Linked List
  3. Circular Linked List
@@ -207,7 +207,7 @@ Doubly Linked List
 9. Display backward
 0. Back
 Choice: 
-DSA NoteScapes
+DSA NodeScape
  1. Singly Linked List
  2. Doubly Linked List
  3. Circular Linked List
@@ -290,7 +290,7 @@ Circular Linked List
 6. Display
 0. Back
 Choice: 
-DSA NoteScapes
+DSA NodeScape
  1. Singly Linked List
  2. Doubly Linked List
  3. Circular Linked List
