@@ -1,0 +1,195 @@
+
+DSA NoteScapes
+ 1. Singly Linked List
+ 2. Doubly Linked List
+ 3. Circular Linked List
+ 4. Stack
+ 5. Queue
+ 6. Array ADT
+ 7. Binary Tree
+ 8. Binary Search Tree
+ 9. AVL Tree
+10. Time Complexity
+ 0. Exit
+Choice: 
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: Value: 
+Tree (root on the left, right subtree on top):
+10 (bf=0)
+
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: Value: 
+Tree (root on the left, right subtree on top):
+        20 (bf=0)
+10 (bf=-1)
+
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: Value:   [Rotation: RR at 10]
+
+Tree (root on the left, right subtree on top):
+        30 (bf=0)
+20 (bf=0)
+        10 (bf=0)
+
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: Value: 
+Tree (root on the left, right subtree on top):
+                40 (bf=0)
+        30 (bf=-1)
+20 (bf=-1)
+        10 (bf=0)
+
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: Value:   [Rotation: RR at 30]
+
+Tree (root on the left, right subtree on top):
+                50 (bf=0)
+        40 (bf=0)
+                30 (bf=0)
+20 (bf=-1)
+        10 (bf=0)
+
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: Value:   [Rotation: RL at 20]
+
+Tree (root on the left, right subtree on top):
+                50 (bf=0)
+        40 (bf=-1)
+30 (bf=0)
+                25 (bf=0)
+        20 (bf=0)
+                10 (bf=0)
+
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: 
+Tree (root on the left, right subtree on top):
+                50 (bf=0)
+        40 (bf=-1)
+30 (bf=0)
+                25 (bf=0)
+        20 (bf=0)
+                10 (bf=0)
+
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: Nodes = 6, Leaves = 3, Height = 3
+
+AVL Tree
+1. Insert
+2. Delete
+3. Search
+4. Traversals
+5. Draw tree (with balance factors)
+6. Height / nodes / leaves
+0. Back
+Choice: 
+DSA NoteScapes
+ 1. Singly Linked List
+ 2. Doubly Linked List
+ 3. Circular Linked List
+ 4. Stack
+ 5. Queue
+ 6. Array ADT
+ 7. Binary Tree
+ 8. Binary Search Tree
+ 9. AVL Tree
+10. Time Complexity
+ 0. Exit
+Choice: 
+Time Complexity
+1. Complexity table
+2. Live demo
+0. Back
+Choice: 
+Structure           Search     Insert      Delete
+Array               O(n)       O(n)        O(n)
+Singly list         O(n)       O(1) front  O(1) front
+Doubly list         O(n)       O(1) ends   O(1) ends
+Stack / Queue       O(n)       O(1)        O(1)
+BST (average)       O(log n)   O(log n)    O(log n)
+BST (worst)         O(n)       O(n)        O(n)
+AVL tree            O(log n)   O(log n)    O(log n)
+
+Time Complexity
+1. Complexity table
+2. Live demo
+0. Back
+Choice: Enter n (1 to 2000): 
+Worst case steps for n = 1000:
+Linear search  O(n)     : 1000 comparisons
+Binary search  O(log n) : 10 comparisons
+Bubble sort    O(n^2)   : 499500 comparisons
+
+Time Complexity
+1. Complexity table
+2. Live demo
+0. Back
+Choice: 
+DSA NoteScapes
+ 1. Singly Linked List
+ 2. Doubly Linked List
+ 3. Circular Linked List
+ 4. Stack
+ 5. Queue
+ 6. Array ADT
+ 7. Binary Tree
+ 8. Binary Search Tree
+ 9. AVL Tree
+10. Time Complexity
+ 0. Exit
+Choice: Program ended.
