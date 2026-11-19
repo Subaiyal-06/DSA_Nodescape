@@ -14,7 +14,7 @@ A menu-driven console program in C++ that implements the main data structures of
 | 3 | Muhammad Ali Ahad | CT-25269 | Stack, Queue, Array ADT |
 | 4 | Muhammad Arib | CT-25273 | Binary Tree, Binary Search Tree |
 
-**Repository link:** <paste the GitHub repository link here>
+**Repository link:** (https://github.com/Subaiyal-06/DSA_Nodescape)
 
 ## Features
 
